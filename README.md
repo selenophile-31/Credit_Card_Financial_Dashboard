@@ -5,7 +5,7 @@ Data Set : The dashboard uses customer and credit_card CSV file containing credi
 
 Steps:
 ### Data Import into Power BI
-1. Data source imported (such as a CSV file) by clicking "Get Data."
+1. Extracted data from SSMS.
 2. After loading the dataset, modified it as necessary.
 
 ### Prepare Your Data - Gather the different fields from each credit card transaction dataset.
